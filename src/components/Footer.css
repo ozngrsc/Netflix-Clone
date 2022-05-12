@@ -1,0 +1,22 @@
+.footer_container {
+    border-top: 1px;
+    border-color: lightslategray;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    border-top: 2px solid #ff0000;
+}
+
+
+.social_icon {
+    margin: 10px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.social_icon:hover {
+    color: lightslategray;
+    
+}

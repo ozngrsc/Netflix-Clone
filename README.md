@@ -7,7 +7,7 @@ The movie in the banner changes every time you refresh the page. You can also se
 ## Netflix-Clone Demo Link
 
 You can view the site here
-[Click Me](https://netflix-clone-ozngrsc.web.app/)
+[Click Me](https://netflix-clone-ozngrsc-v2.web.app/)
 
 ## Topics
 

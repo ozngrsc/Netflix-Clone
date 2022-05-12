@@ -1,7 +1,6 @@
 .footer_container {
     border-top: 1px;
     border-color: lightslategray;
-    margin: 20px;
     padding: 20px;
     display: flex;
     justify-content: center;
